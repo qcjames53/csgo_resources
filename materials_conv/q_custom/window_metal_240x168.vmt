@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "q_custom/window_metal_240x168"
+    "$bumpmap" "q_custom/window_metal_240x168_n"
+    "$surfaceprop" "concrete"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.2 0.2 0.2]"
+}
