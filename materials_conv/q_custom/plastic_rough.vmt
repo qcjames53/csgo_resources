@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/plastic_rough"
+    "$bumpmap" "q_custom/plastic_rough_n"
+    "$surfaceprop" "plastic"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.2 0.2 0.2]"
+}

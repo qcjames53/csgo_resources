@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "q_custom/railing_42x16_frame"
+    "$bumpmap" "q_custom/railing_42x16_frame_n"
+    "$surfaceprop" "metal"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/sign_warning_cliff_area"
+    "$surfaceprop" "metalpanel"
+}

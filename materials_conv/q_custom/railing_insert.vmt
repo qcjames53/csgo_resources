@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "q_custom/railing_insert"
+    "$surfaceprop" "metal"
+    "$translucent" 1
+    "$vertexalpha" 1
+}

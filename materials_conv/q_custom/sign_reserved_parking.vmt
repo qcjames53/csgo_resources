@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/sign_reserved_parking"
+    "$surfaceprop" "metalpanel"
+}

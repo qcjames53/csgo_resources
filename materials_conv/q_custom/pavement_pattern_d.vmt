@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/pavement_pattern_d"
+    "$bumpmap" "q_custom/pavement_pattern_d_n"
+    "$surfaceprop" "concrete"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/wood_floor_9_chevron"
+    "$surfaceprop" "wood"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.3 0.3 0.3]"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/sign_distances"
+    "$surfaceprop" "metalpanel"
+}

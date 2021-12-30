@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/sign_hell_is_real"
+    "$surfaceprop" "metalpanel"
+}

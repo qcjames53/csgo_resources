@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/glossy_brown_tile_floor"
+    "$bumpmap" "q_custom/glossy_brown_tile_floor_n"
+    "$surfaceprop" "tile"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.3 0.3 0.3]"
+}

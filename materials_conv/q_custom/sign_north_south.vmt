@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/sign_north_south"
+    "$surfaceprop" "metalpanel"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "q_custom/rest_area_faucet"
+    "$bumpmap" "q_custom/rest_area_faucet_n"
+    "$surfaceprop" "concrete"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.3 0.3 0.3]"
+}

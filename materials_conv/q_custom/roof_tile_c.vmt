@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "q_custom/roof_tile_c"
+    "$bumpmap" "q_custom/roof_tile_c_n"
+    "$surfaceprop" "tile"
+}
