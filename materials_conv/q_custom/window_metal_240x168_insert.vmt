@@ -2,7 +2,7 @@
 {
     "$basetexture" "q_custom/window_metal_240x168_insert"
     "$bumpmap" "q_custom/window_metal_240x168_insert_n"
-    "$surfaceprop" "concrete"
+    "$surfaceprop" "metal"
     "$envmap" "env_cubemap"
     "$envmaptint" "[0.2 0.2 0.2]"
 }

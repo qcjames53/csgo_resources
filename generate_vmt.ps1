@@ -36,7 +36,7 @@ foreach ($file in $filenames) {
         $material = "plastic"
     } elseif ($file.Contains("poster")) {
         $material = "paper"
-    } elseif ($file.Contains("railing")) {
+    } elseif (($file.Contains("railing")) -or ($file.Contains("metal"))) {
         $material = "metal"
     }
 
